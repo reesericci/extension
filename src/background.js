@@ -33,7 +33,7 @@ chrome.runtime.onInstalled.addListener((details) => {
     "canvasplus-survey": 0,
     "canvasplus-rating": false,
     "canvasplus-setting-sidebar-icon-size": 3,
-    "canvasplus-setting-sidebar-show-settings": true,
+    "canvasplus-setting-sidebar-show-settings": false,
   };
 
   const newDefaults = {
